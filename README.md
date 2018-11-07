@@ -1,4 +1,4 @@
 # Aplikasi Menggunakan :
-- PHP Native 
+- PHP Native 5.6
 - Apache 2.4
 - MySql 5.6
